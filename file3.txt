@@ -1,0 +1,7 @@
+generado es para determinar el comando diff.
+
+
+tercera fila agregada
+
+
+Rama alternativa: generado nuevo
